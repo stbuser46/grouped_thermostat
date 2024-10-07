@@ -1,0 +1,14 @@
+{
+  "domain": "grouped_thermostat",
+  "name": "Grouped Thermostat",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/grouped_thermostat",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@your_github_username"],
+  "iot_class": "calculated"
+}
